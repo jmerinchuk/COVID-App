@@ -33,10 +33,39 @@ To view a demo of the video, click <a href="">here</a>
 
 # Future Ideas
 
-Here
+<table>
+ <tr>
+  <th>Problem</th>
+  <th>Possible Solution</th>
+ </tr>
+ <tr>
+  <td>Get appointment for COVID Test</td>
+  <td>Link to COVID-Alert or COVID Website</td>
+ </tr>
+ <tr>
+  <td>Need Immediate Help</td>
+  <td>Button to call 911</td>
+ </tr>
+ <tr>
+  <td>Need more COVID Information</td>
+  <td>Link to Canada's COVID-19 Website</td>
+ </tr>
+ <tr>
+  <td>Show list of places to avoid</td>
+  <td>Make a breakdown of low-risk to high-risk places to go or not go to</td>
+ </tr>
+ <tr>
+  <td>Notify Family you've been in contact with someone who has COVID-19</td>
+  <td>Button to open texting application so you can message family</td>
+ </tr>
+ <tr>
+  <td>Don't know how to help someone in the app</td>
+  <td>Make guide on how to connect to help someone</td>
+ </tr>
+</table>
 
 # Links
 
-<a href="https://www.figma.com/file/EVsuydDKgU94v8dF7Nz6uP/Merinchuk-J-Covid19-App-V2?node-id=6%3A55">Figma Design</a>
-<a href="">Demo Video</a>
-<a href="https://github.com/jmerinchuk/COVID-App">GitHub Repository</a>
+- <a href="https://www.figma.com/file/EVsuydDKgU94v8dF7Nz6uP/Merinchuk-J-Covid19-App-V2?node-id=6%3A55">Figma Design</a>
+- <a href="">Demo Video</a>
+- <a href="https://github.com/jmerinchuk/COVID-App">GitHub Repository</a>
