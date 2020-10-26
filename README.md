@@ -25,11 +25,11 @@ This application is meant to help people during the COVID-19 pandemic that is cu
  
  # Prototype Images
  
-(Place Image Map Here)
+ <img src="App Layout.png" />
 
 # Demo Video
 
-To view a demo of the video, click <a href="">here</a>
+To view a demo of the video, click <a href="covid-app-demo-recording.mov">here</a>
 
 # Future Ideas
 
@@ -67,5 +67,5 @@ To view a demo of the video, click <a href="">here</a>
 # Links
 
 - <a href="https://www.figma.com/file/EVsuydDKgU94v8dF7Nz6uP/Merinchuk-J-Covid19-App-V2?node-id=6%3A55">Figma Design</a>
-- <a href="">Demo Video</a>
+- <a href="covid-app-demo-recording.mov">Demo Video</a>
 - <a href="https://github.com/jmerinchuk/COVID-App">GitHub Repository</a>
