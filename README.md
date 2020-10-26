@@ -30,7 +30,7 @@ This application is meant to help people during the COVID-19 pandemic that is cu
 # Demo Video
 
 - To view a demo of the video, you can download it <a href="covid-app-record.mov">here</a>.
-- Or you can view it on my drive <a href="https://drive.google.com/file/d/1BYEm3-6xoUA5CvusBwUzt2G0cXLwGHd8/view">here</a>
+- Or you can view it on my drive <a href="">here</a>
 
 # Future Ideas
 
