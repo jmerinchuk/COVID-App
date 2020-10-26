@@ -29,7 +29,7 @@ This application is meant to help people during the COVID-19 pandemic that is cu
 
 # Demo Video
 
-To view a demo of the video, click <a href="covid-app-demo-recording.mov">here</a>
+To view a demo of the video, click <a href="covid-app-record.mov">here</a>
 
 # Future Ideas
 
