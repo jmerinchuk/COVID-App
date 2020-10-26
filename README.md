@@ -25,7 +25,7 @@ This application is meant to help people during the COVID-19 pandemic that is cu
  
  # Prototype Images
  
- <img src="App Layout.png" />
+ <img src="App Layout" />
 
 # Demo Video
 
