@@ -44,6 +44,11 @@ This application is meant to help people during the COVID-19 pandemic that is cu
   <td>Link to COVID-Alert or COVID Website</td>
  </tr>
  <tr>
+  <tr>
+  <td>Alert when someone nearby reported they had COVID-19 on App</td>
+  <td>Add options similar to COVID-Alert App with bluetooth</td>
+ </tr>
+ <tr>
   <td>Need Immediate Help</td>
   <td>Button to call 911</td>
  </tr>
